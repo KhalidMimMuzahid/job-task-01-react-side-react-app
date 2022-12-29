@@ -1,0 +1,183 @@
+[
+  {
+    "label": "Manufacturing",
+    "value": "Manufacturing==1"
+  },
+  {
+    "label": "Construction materials",
+    "value": "Construction materials==19"
+  },
+  {
+    "label": "Electronics and Optics",
+    "value": "Electronics and Optics==18"
+  },
+  {
+    "label": "Food and Beverage",
+    "value": "Food and Beverage==6"
+  },
+  {
+    "label": "Bakery & confectionery products",
+    "value": "Bakery & confectionery products==342"
+  },
+  { "label": "Beverages", "value": "43" },
+  { "label": "Fish & fish products", "value": "Beverages==42" },
+  { "label": "Meat & meat products", "value": "Meat & meat products==40" },
+  { "label": "Milk & dairy products", "value": "Milk & dairy products==39" },
+  { "label": "Sweets & snack food", "value": "Sweets & snack food==378" },
+  {
+    "label": "other (Food and Beverage)",
+    "value": "other (Food and Beverage)==437"
+  },
+  {
+    "label": "Furniture",
+    "value": "Furniture==13"
+  },
+  { "label": "Bathroom/sauna", "value": "Bathroom/sauna==389" },
+  { "label": "Bedroom", "value": "Bedroom==385" },
+  { "label": "Children's room", "value": "Children's room==390" },
+  { "label": "Kitchen", "value": "Kitchen==98" },
+  { "label": "Living room", "value": "Living room==101" },
+  { "label": "Office", "value": "Office==392" },
+  { "label": "Other (Furniture)", "value": "Other (Furniture)==394" },
+  { "label": "Outdoor", "value": "Outdoor==341" },
+  { "label": "Project furniture", "value": "Project furniture==99" },
+  {
+    "label": "Machinery",
+    "value": "Machinery==12"
+  },
+  { "label": "Machinery components", "value": "Machinery components==94" },
+  {
+    "label": "Machinery equipment/tools",
+    "value": "Machinery equipment/tools==91"
+  },
+  {
+    "label": "Manufacture of machinery",
+    "value": "Manufacture of machinery==224"
+  },
+  {
+    "label": "Maritime",
+    "value": "Maritime==97"
+  },
+  {
+    "label": "Aluminium and steel workboats",
+    "value": "Aluminium and steel workboats==271"
+  },
+  { "label": "Boat/Yacht building", "value": "Boat/Yacht building==269" },
+  {
+    "label": "Ship repair and conversion",
+    "value": "Ship repair and conversion==230"
+  },
+  { "label": "Metal structures", "value": "Metal structures==93" },
+  { "label": "Other (Machinery)", "value": "Other (Machinery)==508" },
+  {
+    "label": "Repair and maintenance service",
+    "value": "Repair and maintenance service==227"
+  },
+  {
+    "label": "Metalworking",
+    "value": "Metalworking==11"
+  },
+  {
+    "label": "Construction of metal structures",
+    "value": "Construction of metal structures==67"
+  },
+  { "label": "Houses and buildings", "value": "Houses and buildings==263" },
+  { "label": "Metal products", "value": "Metal products==267" },
+  {
+    "label": "Metal works",
+    "value": "Metal works==542"
+  },
+  { "label": "CNC-machining", "value": "CNC-machining==75" },
+  { "label": "Forgings, Fasteners", "value": "Forgings, Fasteners==62" },
+  {
+    "label": "Gas, Plasma, Laser cutting",
+    "value": "Gas, Plasma, Laser cutting==69"
+  },
+  {
+    "label": "MIG, TIG, Aluminum welding",
+    "value": "MIG, TIG, Aluminum welding==66"
+  },
+  {
+    "label": "Plastic and Rubber",
+    "value": "Plastic and Rubber==9"
+  },
+  { "label": "Packaging", "value": "Packaging==54" },
+  { "label": "Plastic goods", "value": "Plastic goods==556" },
+  {
+    "label": "Plastic processing technology",
+    "value": "Plastic processing technology==559"
+  },
+  { "label": "Blowing", "value": "Blowing==55" },
+  { "label": "Moulding", "value": "Moulding==57" },
+  {
+    "label": "Plastics welding and processing",
+    "value": "Plastics welding and processing==53"
+  },
+  { "label": "Plastic profiles", "value": "Plastic profiles==560" },
+  {
+    "label": "Printing",
+    "value": "Printing==5"
+  },
+  { "label": "Advertising", "value": "Advertising==148" },
+  {
+    "label": "Book/Periodicals printing",
+    "value": "Book/Periodicals printing==150"
+  },
+  {
+    "label": "Labelling and packaging printing",
+    "value": "Labelling and packaging printing==145"
+  },
+  {
+    "label": "Textile and Clothing",
+    "value": "Textile and Clothing==7"
+  },
+  { "label": "Clothing", "value": "Clothing==44" },
+  { "label": "Textile", "value": "Textile==45" },
+  {
+    "label": "Wood",
+    "value": "Wood==8"
+  },
+  {
+    "label": "Wooden building materials",
+    "value": "Wooden building materials==51"
+  },
+  { "label": "Wooden houses", "value": "Wooden houses==47" },
+  { "label": "Other (Wood)", "value": "Other (Wood)==337" },
+  {
+    "label": "Service",
+    "value": "Service==2"
+  },
+  { "label": "Business services", "value": "Business services==25" },
+  { "label": "Engineering", "value": "Engineering==35" },
+  {
+    "label": "Information Technology and Telecommunications",
+    "value": "Information Technology and Telecommunications==28"
+  },
+  {
+    "label": "Data processing, Web portals, E-marketing",
+    "value": "Data processing, Web portals, E-marketing==581"
+  },
+  {
+    "label": "Programming, Consultancy",
+    "value": "Programming, Consultancy==576"
+  },
+  { "label": "Software, Hardware", "value": "Software, Hardware==121" },
+  { "label": "Telecommunications", "value": "Telecommunications==122" },
+  { "label": "Tourism", "value": "Tourism==22" },
+  { "label": "Translation services", "value": "Translation services==141" },
+  {
+    "label": "Transport and Logistics",
+    "value": "Transport and Logistics==21"
+  },
+  { "label": "Air", "value": "Air==111" },
+  { "label": "Rail", "value": "Rail==114" },
+  { "label": "Road", "value": "Road==112" },
+  { "label": "Water", "value": "Water==113" },
+  {
+    "label": "Other",
+    "value": "Other==3"
+  },
+  { "label": "Creative industries", "value": "Creative industries==37" },
+  { "label": "Energy technology", "value": "Energy technology==29" },
+  { "label": "Environment", "value": "Environment==33" }
+]
